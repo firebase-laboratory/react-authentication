@@ -33,13 +33,13 @@ A Create React App boilerplate for setting up authentication in Firebase
 3. Create a `.env` file and copy the SDK setup and configuration:
 
    ```javascript
-   REACT_APP_FIREBASE_API_KEY=<apiKey>
-   REACT_APP_FIREBASE_AUTH_DOMAIN=<authDomain>
-   REACT_APP_FIREBASE_PROJECT_ID=<projectId>
-   REACT_APP_FIREBASE_STORAGE_BUCKET=<storageBucket>
-   REACT_APP_FIREBASE_MESSAGING_SENDER_ID=<messagingSenderId>
-   REACT_APP_FIREBASE_APP_ID=<appId>
-   REACT_APP_FIREBASE_MEASUREMENT_ID=<measurementId>
+   REACT_APP_FIREBASE_API_KEY=apiKey
+   REACT_APP_FIREBASE_AUTH_DOMAIN=authDomain
+   REACT_APP_FIREBASE_PROJECT_ID=projectId
+   REACT_APP_FIREBASE_STORAGE_BUCKET=storageBucket
+   REACT_APP_FIREBASE_MESSAGING_SENDER_ID=messagingSenderId
+   REACT_APP_FIREBASE_APP_ID=appId
+   REACT_APP_FIREBASE_MEASUREMENT_ID=measurementId
    ```
 
 4. Run `npm install`
